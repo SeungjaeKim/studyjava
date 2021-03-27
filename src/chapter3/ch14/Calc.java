@@ -17,7 +17,7 @@ public interface Calc {
      */
     default void description(){
         System.out.println("정수 계산기를 구현합니다.");
-        mymethod();
+        //mymethod();
     }
 
     /**
@@ -28,18 +28,18 @@ public interface Calc {
         for(int num : arr){
             total += num;
         }
-        myStaticMethod();
+        //myStaticMethod();
         return total;
     }
 
     /**
      * Java 9 버전 이후에만 사용 가능
      */
-    private void mymethod(){
+    /*private void mymethod(){
         System.out.println("myMethod");
     }
 
     private static void myStaticMethod(){
         System.out.println("myStaticMethod");
-    }
+    }*/
 }
