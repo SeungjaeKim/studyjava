@@ -1,4 +1,4 @@
-package chapter6.ch08;
+package chapter6.ch09;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

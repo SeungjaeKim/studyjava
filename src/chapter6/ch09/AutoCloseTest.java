@@ -1,4 +1,4 @@
-package chapter6.ch08;
+package chapter6.ch09;
 
 public class AutoCloseTest {
     public static void main(String[] args) {

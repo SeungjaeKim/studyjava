@@ -1,4 +1,4 @@
-package chapter6.ch08;
+package chapter6.ch09;
 
 public class AutoCloseableObj implements AutoCloseable{
     @Override
